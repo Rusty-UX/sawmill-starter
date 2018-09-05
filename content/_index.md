@@ -44,5 +44,24 @@ button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
 heading = "Let's Get Started"
 template = "call-to-action"
+[[blocks]]
+background_style = "Brand Color"
+image_position = "Left"
+template = "media-feature"
+[[blocks]]
+background_style = "Brand Color"
+image_position = "Left"
+template = "media-feature"
+[[blocks]]
+background_style = "Brand Color"
+image_position = "Left"
+template = "media-feature"
+[[blocks]]
+background_style = "Brand Color"
+content = "MY CONTENT"
+heading = "HEADING VALUE"
+image_position = "Left"
+subheading = "SUBHEADING VALUE"
+template = "media-feature"
 
 +++
